@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    background-image: url(arquivo/img/espaco.png);
+    display: flex;
+}
+
+/*#tab {
+    width: 20px;
+    height: 20px;
+    border: solid, 10px, black;
+    margin: auto;
+    display: block;
+    position: absolute;
+    bottom: 500px;
+    right: 10000px;
+    top: 0;
+    left: 0;
+}
+h1 {
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    font-size: 12pt;
+}
+.comando {
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    font: 5px;
+    color: #40E0D0;
+}
+
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 800;
+    height: 500;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}*/
