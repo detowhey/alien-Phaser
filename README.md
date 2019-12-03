@@ -1,5 +1,5 @@
 # alien-Phaser
 
-[PhaserJS](phaser.jpg)
+![PhaserJS](phaser.jpg)
 
 Um game simples de plataforma desenvolvido com o framework Phaser JS.
